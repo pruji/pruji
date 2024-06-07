@@ -37,7 +37,6 @@ currently_learning: ["OSDA","OSCP",]
 hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
 ```
 
-
 <hr>
 
 <h3 align="center">Connect with me:</h3>
@@ -53,10 +52,9 @@ hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
 <hr>
 
 <div align="center">
-<p></p>
 <img src="https://profile-counter.glitch.me/pruji/count.svg" alt="hit counter" align="center">
 </div>
+
 <div align="center">
-  
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
