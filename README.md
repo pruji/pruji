@@ -2,7 +2,7 @@
 **pruji/pruji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/9wy913cctaIAAAAd/frieren-frieren-anime.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/ywjvYkC2QuYAAAAd/anime-go.gif" width="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
