@@ -15,12 +15,12 @@ company:
   [
     "secret",
   ]
-
 fields_of_interests:
   [
     "Red Team",
     "Blue Team",
     "OSINT",
+    "CTF",
   ]
 technical_background:
   [
@@ -29,7 +29,6 @@ technical_background:
     "Application Operations Engineer",
     "IAM Engineer",
   ]
-  
 currently_learning: ["OSDA","OSCP",]
 2024 Goals: ["OSDA","OSCP",]
 hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
