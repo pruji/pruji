@@ -1,22 +1,39 @@
 <!--
 **pruji/pruji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-
-
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">I'm a Sr. IT Engineer.</h3>
+
+```
+located_in: Miami
+current_job: Sr. IT Engineer
+education:
+  [
+    "Master's in Cybersecurity",
+    "Bachelor's Information Technology:Software",
+  ]
+company:
+  [
+    "secret",
+  ]
+
+fields_of_interests:
+  [
+    "Red Team",
+    "Blue Team",
+    "OSINT",
+  ]
+technical_background:
+  [
+    "Sr. Application Operations Engineer",
+    "Telephony Engineer",
+    "Application Operations Engineer",
+    "IAM Engineer",
+  ]
+  
+currently_learning: ["OSDA","OSCP",]
+2024 Goals: ["OSDA","OSCP",]
+hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
