@@ -3,7 +3,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
-```
+```yaml
 located_in: Miami
 current_job: Sr. IT Engineer
 education:
