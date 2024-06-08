@@ -9,15 +9,8 @@
 ```yaml
 located_in: Remote
 current_job: Sr. IT Engineer
-company:
-  [
-    "secret",
-  ]
-education:
-  [
-    "Master's in Cybersecurity",
-    "Bachelor's in Information Technology: Software",
-  ]
+company: secret
+education: ["Master's in Cybersecurity","Bachelor's in Information Technology: Software",]
 currently_learning: ["OSDA","OSCP",]
 certifications: ["Security +","AWS Practioner","Splunk Core",]
 ```
