@@ -9,15 +9,6 @@
 ```yaml
 located_in: Remote
 current_job: Sr. IT Engineer
-education:
-  [
-    "Master's in Cybersecurity",
-    "Bachelor's Information Technology: Software",
-  ]
-company:
-  [
-    "secret",
-  ]
 fields_of_interests:
   [
     "Red Team",
@@ -31,6 +22,15 @@ technical_background:
     "Telephony Engineer",
     "App Ops Engineer",
     "IAM Engineer",
+  ]
+education:
+  [
+    "Master's in Cybersecurity",
+    "Bachelor's in Information Technology: Software",
+  ]
+company:
+  [
+    "secret",
   ]
 currently_learning: ["OSDA","OSCP",]
 Goals: ["OSDA","OSCP",]
