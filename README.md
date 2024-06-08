@@ -7,12 +7,12 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
 ```yaml
-located_in: Miami
+located_in: Remote
 current_job: Sr. IT Engineer
 education:
   [
     "Master's in Cybersecurity",
-    "Bachelor's Information Technology:Software",
+    "Bachelor's Information Technology: Software",
   ]
 company:
   [
@@ -27,13 +27,13 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Sr. Application Operations Engineer",
+    "Sr. App Ops Engineer",
     "Telephony Engineer",
-    "Application Operations Engineer",
+    "App Ops Engineer",
     "IAM Engineer",
   ]
 currently_learning: ["OSDA","OSCP",]
-2024 Goals: ["OSDA","OSCP",]
+Goals: ["OSDA","OSCP",]
 hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
 ```
 
@@ -44,17 +44,17 @@ hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
   <img src="https://media1.tenor.com/m/JZFx5PtapzcAAAAC/pepe-hacker-pog.gif" width="100"/>
 </div>
 
-<hr>
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<hr>
+<br>
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/pruji/count.svg" alt="hit counter" align="center">
+  <img src="https://profile-counter.glitch.me/pruji/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
