@@ -9,35 +9,20 @@
 ```yaml
 located_in: Remote
 current_job: Sr. IT Engineer
-fields_of_interests:
+company:
   [
-    "Red Team",
-    "Blue Team",
-    "OSINT",
-    "CTF",
-  ]
-technical_background:
-  [
-    "Sr. App Ops Engineer",
-    "Telephony Engineer",
-    "App Ops Engineer",
-    "IAM Engineer",
+    "secret",
   ]
 education:
   [
     "Master's in Cybersecurity",
     "Bachelor's in Information Technology: Software",
   ]
-company:
-  [
-    "secret",
-  ]
 currently_learning: ["OSDA","OSCP",]
-Goals: ["OSDA","OSCP",]
-hobbies: ["Gaming", "Anime", "Snowboarding", "Reading",]
+certifications: ["Security +","AWS Practioner","Splunk Core",]
 ```
 
-<hr>
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <div id="Connect" align="center">
