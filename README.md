@@ -8,8 +8,7 @@
 
 ```yaml
 located_in: Remote
-current_job: Sr. IT Engineer
-company: secret
+current_job: Technical Product Manager
 education: ["Master's in Cybersecurity","Bachelor's in Information Technology: Software",]
 currently_learning: ["OSDA","OSCP",]
 certifications: ["Security +","AWS Practioner","Splunk Core",]
